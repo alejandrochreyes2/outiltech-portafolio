@@ -4,8 +4,10 @@
 
 **URL de la tienda:** https://outiltech.co  
 **Cliente:** Jhonnathan Hernández Medina — Gerente y propietario de Outiltech  
-**Desarrollado por:** Alejandro Chaparro Reyes · alejandrochreyes2@gmail.com  
+**Desarrollado por:** Alejandro Chaparro Reyes · alejandrochreyes2@gmail.com · WhatsApp 3133082905  
 **Período:** 21 Marzo – 26 Abril 2026 · **Inversión:** $20.000.000 COP
+
+> **Punto de partida:** Antes del 21 de marzo de 2026, Outiltech **no tenía ninguna presencia en internet** — cero página web, cero plataforma digital. Todo lo que existe hoy en outiltech.co fue construido desde cero en 36 días.
 
 ---
 
@@ -93,6 +95,7 @@ outiltech-entrega-portafolio/
 **Alejandro Chaparro Reyes**  
 Desarrollador Full-Stack Senior — Bogotá, Colombia  
 📧 alejandrochreyes2@gmail.com  
+📱 WhatsApp: 3133082905  
 🐙 https://github.com/alejandrochreyes2
 
 ---
